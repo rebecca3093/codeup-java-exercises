@@ -19,7 +19,7 @@ public class MethodsExercises {
         getInteger(1, 10);
 
         //3.
-        getFactorial(1, 10);
+        //getFactorial(1, 10);
 
         //4.
 
@@ -128,6 +128,7 @@ public class MethodsExercises {
         }
         return userInput;
     }
+}
 
     // 3.
   /*  public static void getFactorial(int min, int max) {
@@ -138,6 +139,7 @@ public class MethodsExercises {
     }*/
 
     //rys walkthru
+/*
     public static void getFactorial(int min, int max) {
 
         int userInt = getInteger(min, max);
@@ -154,6 +156,7 @@ public class MethodsExercises {
     }
 
 
+*/
 
 
 
