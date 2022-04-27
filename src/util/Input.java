@@ -48,6 +48,6 @@ public class Input {
 
     public static double getDouble(String prompt) {
         System.out.println(prompt);
-        return scanner.nextDouble();
+        return scanner.nextInt();
     }
 }

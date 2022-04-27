@@ -33,7 +33,7 @@ public class MoviesApplication {
             }
         }
     }
-    public static void printAllMovies(Movie[], movies) {
+   /* public static void printAllMovies(Movie[], movies) {
         for(Movie movie: movies){
             System.out.println(movie.getName() + " -- " + movie.getCategory());
         }
@@ -50,7 +50,5 @@ public class MoviesApplication {
             case 2:
                 printMoviesByCategory(MoviesArray.findAll());
 
-
+*/
         }
-    }
-}
